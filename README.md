@@ -1,54 +1,63 @@
 <h1 align="center">Hi 👋, I'm Ashish Panwar</h1>
-<p align="center"><em>ML & Web Dev • React Native & MERN learner • Dehradun 🏞️</em></p>
+<h3 align="center">🚀 A passionate Machine Learning and Web Developer from Dehradun, India</h3>
 
 ---
 
-## 🚀 About Me
-- 🔭 Currently working on **AI/ML projects**
-- 🌱 Learning **React Native** & **MERN Stack**
-- 💬 Ask me about **Web Dev**, **AI/ML**, **Python**, **Flask**
-- 📫 Reach me at [ashishpanwar251@gmail.com](mailto:ashishpanwar251@gmail.com)
+### 🔥 About Me
+- 🔭 I’m currently working on **AI and ML projects**
+- 🌱 I’m learning **React Native** and **MERN Stack**
+- 💬 Ask me about **Web Development**, **Python**, **Flask**, and **AI/ML**
+- 📫 Reach me at **ashishpanwar251@gmail.com**
 
 ---
 
-## 🛠️ Skills & Tools  
-<img src="...python-badge" alt="Python" width="32"/> <img src="...tf-badge" alt="TensorFlow" width="32"/> <!-- add other icons -->
-
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishpanwar19&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpanwar19&theme=radical"/>
+### 🧑‍💻 Connect with Me
+<p align="left">
+  <a href="mailto:ashish05panwar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  <a href="https://github.com/ashishpanwar19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/></a>
 </p>
 
 ---
 
-## 📌 Featured Projects  
-| Project | Description |
-|-------|-------------|
-| 💳 **Online Payment Fraud Detection** | API‑driven ML model to detect suspicious payments |
-| 🏋️‍♂️ **AI‑Powered Fitness App** | Personalized workouts using AI & React Native |
-| 🏏 **Cricket Match Prediction** | JS‑based model to predict outcomes |
-| 🤖 **Next.js AI Chatbot** | AI‑driven chatbot built with Next.js |
-| 🕵️‍♂️ **Phishing URL Detection** | Jupyter model to detect phishing URLs |
-| 📈 **NBA Performance Tracker** | TS‑based tracker for NBA statistics |
+### ⚙️ Languages and Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
 
 ---
 
-## 📫 Connect with Me  
-[![Gmail](...)](mailto:ashish05panwar@gmail.com)  
-[![LinkedIn](...)](https://linkedin.com/in/ashish_panwar)  
-[![GitHub](...)](https://github.com/ashishpanwar19)
+### 📌 Pinned Projects
+
+- 🔗 [Online Payment Fraud Detection with API](https://github.com/ashishpanwar19/online-payment-fraud-detection-with-api)
+- 🔗 [AI Powered Fitness App](https://github.com/ashishpanwar19/AI-Powered-Fitness_App)
+- 🔗 [Cricket Match Prediction](https://github.com/ashishpanwar19/cricket_prediction)
+- 🔗 [Next.js AI Chatbot](https://github.com/ashishpanwar19/nextjs-ai-chatbot)
+- 🔗 [Phishing Attack URL Detection](https://github.com/ashishpanwar19/phising_attack_url_detection)
+- 🔗 [NBA Performance Tracker](https://github.com/ashishpanwar19/NBA_Performance_Tracker)
 
 ---
 
-*(Optional)*: **Interactive Features**  
-- ⚙️ Auto‑updating GitHub stats via Actions  
-- 🧾 Visitors guestbook or hit-counter  
-- 🕹️ A simple “Hello, World!” command‑line widget
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishpanwar19&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishpanwar19&theme=tokyonight" alt="GitHub Streak"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishpanwar19&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-✍️ _“Precision is a symbol of professionalism.”_  
-— Deepa Jarout :contentReference[oaicite:18]{index=18}
+### 🚀 Keep Building and Learning!
