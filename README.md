@@ -54,7 +54,7 @@
 |---|---|
 | **🛡️ FraudShield** | **🏋️‍♂️ FitVision** |
 | Real-time payment fraud detection | AI-powered fitness coach |
-| [![Demo](https://img.shields.io/badge/TRY_DEMO-8A2BE2?style=for-the-badge)](https://fraudshield-demo.vercel.app) | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo) |
+| [![Demo](https://unrivaled-figolla-b4ad67.netlify.app/) | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/your-demo) |
 | **📊 NBA Insight** | **🤖 ChatFlow** |
 | Advanced basketball analytics | Context-aware chatbot |
 | [![Code](https://img.shields.io/badge/VIEW_CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/nba-insight) | [![Live](https://img.shields.io/badge/TRY_LIVE-4285F4?style=for-the-badge)](https://chatflow-demo.vercel.app) |
