@@ -54,10 +54,10 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **🛡️ FraudShield** | Real-time payment fraud detection using GNNs & LLMs | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://fraudshield-demo.netlify.app) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/FraudShield) |
-| **🏋️‍♂️ FitVision** | AI-powered fitness coach with pose estimation | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/fitvision-demo) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/FitVision) |
-| **📊 NBA Insight** | Basketball analytics dashboard with ML predictions | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://nba-insight.netlify.app) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/NBA-Insight) |
-| **🏏 CricPredict** | Cricket match predictor with 85% accuracy | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/cricpredict-demo) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/CricPredict) |
+| **🛡️ FraudShield** | Real-time payment fraud detection using GNNs & LLMs | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://github.com/ashishpanwar19/FraudShield) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/FraudShield) |
+| **🏋️‍♂️ FitVision** | AI-powered fitness coach with pose estimation | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://github.com/ashishpanwar19/FitVision) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/FitVision) |
+| **📊 NBA Insight** | Basketball analytics dashboard with ML predictions | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://github.com/ashishpanwar19/NBA-Insight) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/NBA-Insight) |
+| **🏏 CricPredict** | Cricket match predictor with 85% accuracy | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://github.com/ashishpanwar19/CricPredict) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/CricPredict) |
 
 </div>
 
