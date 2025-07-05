@@ -58,6 +58,8 @@
 | **🏋️‍♂️ FitVision** | AI-powered fitness coach with pose estimation | [![Demo](https://img.shields.io/badge/WATCH_DEMO-FF0000?style=for-the-badge&logo=youtube)](https://lambent-faun-ad51e0.netlify.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/FitVision) |
 | **📊 NBA Insight** | Basketball analytics dashboard with ML predictions | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://gentle-malabi-a931d2.netlify.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/NBA-Insight) |
 | **💪 Aura Fit** | AI-powered fitness tracker with personalized workouts | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://aura-fit-evolve.lovable.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/Aura-Fit) |
+| **💰 Finance Visualizer** | Interactive personal finance dashboard | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://earnest-baklava-733f33.netlify.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/Finance-Visualizer) |
+| **🚨 Anomaly Detector** | Real-time financial anomaly detection system | [![Demo](https://img.shields.io/badge/LIVE_DEMO-00C853?style=for-the-badge)](https://wonderful-yeot-08d9c8.netlify.app/) [![Code](https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github)](https://github.com/ashishpanwar19/Anomaly-Detector) |
 
 </div>
 
